@@ -1,0 +1,4094 @@
+{
+	"pages": [
+	{
+		"width":"595.4",
+		"height":"841.8",
+		"num":"1",
+		"dir":"ltr",
+		"orient":"portrait",
+		"columns": [
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Antonio",
+						"width":"99.85",
+						"height":"27.25",
+						"left":"240.88",
+						"top":"773.3",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"28",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Chacón",
+						"width":"92.73",
+						"height":"27.25",
+						"left":"347.48",
+						"top":"773.3",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"28",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Salido",
+						"width":"77.31",
+						"height":"27.25",
+						"left":"447.04",
+						"top":"773.3",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"28",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Estudiante",
+						"width":"105.4",
+						"height":"21.4",
+						"left":"263.08",
+						"top":"726.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"22",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"23.25",
+						"height":"21.4",
+						"left":"373.85",
+						"top":"726.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"22",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"99.92",
+						"height":"21.4",
+						"left":"402.41",
+						"top":"726.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"22",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Química",
+						"width":"82.28",
+						"height":"21.4",
+						"left":"341.5",
+						"top":"699.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"22",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Contacto",
+						"width":"55.36",
+						"height":"13.62",
+						"left":"7.4",
+						"top":"625.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"+34",
+						"width":"19.21",
+						"height":"10.71",
+						"left":"35",
+						"top":"599.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"625935984",
+						"width":"55.42",
+						"height":"10.71",
+						"left":"56.79",
+						"top":"599.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"anyhonyacs@gmail.com",
+						"width":"118.02",
+						"height":"10.71",
+						"left":"35",
+						"top":"570.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"C/",
+						"width":"12.15",
+						"height":"10.71",
+						"left":"35",
+						"top":"541.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Joaquín",
+						"width":"39.48",
+						"height":"10.71",
+						"left":"49.78",
+						"top":"541.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Turina",
+						"width":"32.92",
+						"height":"10.71",
+						"left":"91.74",
+						"top":"541.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"14,",
+						"width":"14.12",
+						"height":"10.71",
+						"left":"127.3",
+						"top":"541.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Bloque",
+						"width":"34.08",
+						"height":"10.71",
+						"left":"35",
+						"top":"527.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"3,",
+						"width":"8.97",
+						"height":"10.71",
+						"left":"71.75",
+						"top":"527.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"1ºA",
+						"width":"17.73",
+						"height":"10.71",
+						"left":"83.37",
+						"top":"527.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Logros",
+						"width":"42.59",
+						"height":"13.62",
+						"left":"7.4",
+						"top":"487.48",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"académicos",
+						"width":"71.64",
+						"height":"13.62",
+						"left":"53.32",
+						"top":"487.48",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"He",
+						"width":"14.3",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"465.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"obtenido",
+						"width":"43.29",
+						"height":"10.71",
+						"left":"24.37",
+						"top":"465.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"8",
+						"width":"6.55",
+						"height":"10.71",
+						"left":"70.31",
+						"top":"465.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"matrículas",
+						"width":"51.32",
+						"height":"10.71",
+						"left":"79.49",
+						"top":"465.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"133.44",
+						"top":"465.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"honor",
+						"width":"29.28",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.9",
+						"height":"10.71",
+						"left":"39.35",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"8.54",
+						"height":"10.71",
+						"left":"53.74",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"primer",
+						"width":"33.49",
+						"height":"10.71",
+						"left":"64.92",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"año",
+						"width":"17.92",
+						"height":"10.71",
+						"left":"101.09",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"121.66",
+						"top":"452.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Ingeniería",
+						"width":"49.94",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"439.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Química.",
+						"width":"44.15",
+						"height":"10.71",
+						"left":"59.96",
+						"top":"439.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Soy",
+						"width":"17.6",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"417.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"8.53",
+						"height":"10.71",
+						"left":"27.59",
+						"top":"417.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"presidente",
+						"width":"51.26",
+						"height":"10.71",
+						"left":"38.76",
+						"top":"417.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.71",
+						"height":"10.71",
+						"left":"92.69",
+						"top":"417.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"los",
+						"width":"13.74",
+						"height":"10.71",
+						"left":"107.07",
+						"top":"417.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"estudiantes",
+						"width":"55.68",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"404.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"65.71",
+						"top":"404.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"8.54",
+						"height":"10.71",
+						"left":"80.1",
+						"top":"404.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"departamento",
+						"width":"68.48",
+						"height":"10.71",
+						"left":"91.28",
+						"top":"404.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Física",
+						"width":"28.34",
+						"height":"10.71",
+						"left":"21.78",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Aplicada",
+						"width":"42.33",
+						"height":"10.71",
+						"left":"52.75",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"I",
+						"width":"4.29",
+						"height":"10.71",
+						"left":"97.72",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"104.52",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"8.73",
+						"height":"10.71",
+						"left":"118.91",
+						"top":"390.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Universidad",
+						"width":"59.47",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"377.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"69.54",
+						"top":"377.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga.",
+						"width":"38.53",
+						"height":"10.71",
+						"left":"83.92",
+						"top":"377.11",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Hobbies",
+						"width":"51.58",
+						"height":"13.62",
+						"left":"7.4",
+						"top":"326.84",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Me",
+						"width":"15.51",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"305.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"considero",
+						"width":"47.49",
+						"height":"10.71",
+						"left":"25.58",
+						"top":"305.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"una",
+						"width":"18.34",
+						"height":"10.71",
+						"left":"75.72",
+						"top":"305.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"persona",
+						"width":"38.89",
+						"height":"10.71",
+						"left":"96.7",
+						"top":"305.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"aficionada",
+						"width":"50.51",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"291.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"a",
+						"width":"5.54",
+						"height":"10.71",
+						"left":"60.55",
+						"top":"291.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"viajar,",
+						"width":"30.47",
+						"height":"10.71",
+						"left":"68.73",
+						"top":"291.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"a",
+						"width":"5.54",
+						"height":"10.71",
+						"left":"101.85",
+						"top":"291.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"hacer",
+						"width":"26.88",
+						"height":"10.71",
+						"left":"110.01",
+						"top":"291.69",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"deporte",
+						"width":"37.47",
+						"height":"10.71",
+						"left":"7.4",
+						"top":"278.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"y",
+						"width":"5.41",
+						"height":"10.71",
+						"left":"47.54",
+						"top":"278.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"a",
+						"width":"5.54",
+						"height":"10.71",
+						"left":"55.54",
+						"top":"278.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"8.73",
+						"height":"10.71",
+						"left":"63.72",
+						"top":"278.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"lectura.",
+						"width":"36.73",
+						"height":"10.71",
+						"left":"75.09",
+						"top":"278.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Redes",
+						"width":"40.57",
+						"height":"13.13",
+						"left":"7.4",
+						"top":"231.33",
+						"color":"#000000",
+						"fontName":"Arial",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Sociales",
+						"width":"53.05",
+						"height":"13.13",
+						"left":"51.77",
+						"top":"231.33",
+						"color":"#000000",
+						"fontName":"Arial",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"www.linkedin.com/in/antonio­chacon",
+						"width":"119.15",
+						"height":"6.81",
+						"left":"32",
+						"top":"208.93",
+						"color":"#0462c1",
+						"fontName":"Times New Roman",
+						"fontSize":"7",
+						"underline":"1",
+						"dir":"ltr",
+						"angle":"0",
+						"link":"http://www.linkedin.com/in/antonio-chacon"
+					}]
+				}]
+			}]
+		},
+		{
+			"paragraphs": [
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Perfil",
+						"width":"33.75",
+						"height":"13.62",
+						"left":"178.45",
+						"top":"625.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Profesional",
+						"width":"70.17",
+						"height":"13.62",
+						"left":"215.58",
+						"top":"625.51",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"600.88",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Soy",
+						"width":"17.6",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"un",
+						"width":"12.89",
+						"height":"10.71",
+						"left":"235.25",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"estudiante",
+						"width":"51.05",
+						"height":"10.71",
+						"left":"251.23",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"305.55",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2º",
+						"width":"11.69",
+						"height":"10.71",
+						"left":"320.52",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"año",
+						"width":"17.92",
+						"height":"10.71",
+						"left":"335.49",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"356.66",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"50.12",
+						"height":"10.71",
+						"left":"371.63",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Química",
+						"width":"41.15",
+						"height":"10.71",
+						"left":"424.97",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"469.34",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"8.73",
+						"height":"10.71",
+						"left":"484.51",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Universidad",
+						"width":"59.65",
+						"height":"10.71",
+						"left":"496.48",
+						"top":"601.36",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga,",
+						"width":"38.72",
+						"height":"10.71",
+						"left":"228.45",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"con",
+						"width":"17.49",
+						"height":"10.71",
+						"left":"269.48",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"intensificación",
+						"width":"71.26",
+						"height":"10.71",
+						"left":"289.1",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"362.46",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"50.12",
+						"height":"10.71",
+						"left":"376.64",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"428.99",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Procesos,",
+						"width":"46.35",
+						"height":"10.71",
+						"left":"442.97",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"contando",
+						"width":"45.51",
+						"height":"10.71",
+						"left":"491.55",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"con",
+						"width":"17.49",
+						"height":"10.71",
+						"left":"539.38",
+						"top":"587.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"competencias",
+						"width":"66.32",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"289.1",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"8.73",
+						"height":"10.71",
+						"left":"309.08",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"resolución",
+						"width":"50.83",
+						"height":"10.71",
+						"left":"326.04",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.71",
+						"height":"10.71",
+						"left":"384.95",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"problemas;",
+						"width":"55.27",
+						"height":"10.71",
+						"left":"404.92",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"uso",
+						"width":"16.92",
+						"height":"10.71",
+						"left":"468.35",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"493.51",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Excel;",
+						"width":"29.74",
+						"height":"10.71",
+						"left":"513.47",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"y",
+						"width":"5.41",
+						"height":"10.71",
+						"left":"551.38",
+						"top":"574.56",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"programación.",
+						"width":"71.4",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"560.93",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Me",
+						"width":"15.51",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"considero",
+						"width":"47.49",
+						"height":"10.71",
+						"left":"234.84",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"una",
+						"width":"18.34",
+						"height":"10.71",
+						"left":"287.17",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"persona",
+						"width":"38.71",
+						"height":"10.71",
+						"left":"310.33",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"seria",
+						"width":"23.34",
+						"height":"10.71",
+						"left":"353.87",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"centrada",
+						"width":"42.33",
+						"height":"10.71",
+						"left":"382.02",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"429.18",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"cumplir",
+						"width":"38.11",
+						"height":"10.71",
+						"left":"445.76",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"sus",
+						"width":"15.93",
+						"height":"10.71",
+						"left":"488.71",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"objetivos,",
+						"width":"46.71",
+						"height":"10.71",
+						"left":"509.46",
+						"top":"547.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"destacando",
+						"width":"55.07",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"por",
+						"width":"16.7",
+						"height":"10.71",
+						"left":"273.78",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"mi",
+						"width":"12.82",
+						"height":"10.71",
+						"left":"294.75",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"desempeño",
+						"width":"55.49",
+						"height":"10.71",
+						"left":"311.74",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"académico",
+						"width":"51.49",
+						"height":"10.71",
+						"left":"371.47",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"y",
+						"width":"5.41",
+						"height":"10.71",
+						"left":"427.21",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"mi",
+						"width":"12.83",
+						"height":"10.71",
+						"left":"436.8",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"adaptación",
+						"width":"53.86",
+						"height":"10.71",
+						"left":"453.98",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"a",
+						"width":"5.55",
+						"height":"10.71",
+						"left":"511.93",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"nuevos",
+						"width":"34.32",
+						"height":"10.71",
+						"left":"521.71",
+						"top":"533.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"conceptos",
+						"width":"48.52",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"o",
+						"width":"5.9299999999999",
+						"height":"10.71",
+						"left":"267.41",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"tecnologías,",
+						"width":"58.08",
+						"height":"10.71",
+						"left":"277.79",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"buscando",
+						"width":"46.5",
+						"height":"10.71",
+						"left":"340.29",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"trabajar",
+						"width":"38.88",
+						"height":"10.71",
+						"left":"391.23",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"11.89",
+						"height":"10.71",
+						"left":"434.57",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"sectores",
+						"width":"39.69",
+						"height":"10.71",
+						"left":"450.75",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"relacionados",
+						"width":"61.76",
+						"height":"10.71",
+						"left":"495.15",
+						"top":"520.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"con",
+						"width":"17.49",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"8.73",
+						"height":"10.71",
+						"left":"239.48",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"50.12",
+						"height":"10.71",
+						"left":"255.85",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Química,",
+						"width":"44.15",
+						"height":"10.71",
+						"left":"313.59",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"energías",
+						"width":"40.91",
+						"height":"10.71",
+						"left":"365.36",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"renovables",
+						"width":"52.69",
+						"height":"10.71",
+						"left":"413.9",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"e",
+						"width":"5.31",
+						"height":"10.71",
+						"left":"474.21",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"49.94",
+						"height":"10.71",
+						"left":"487.19",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"544.74",
+						"top":"506.94",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Procesos.",
+						"width":"45.98",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"493.53",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Formación",
+						"width":"67.41",
+						"height":"13.62",
+						"left":"178.45",
+						"top":"468.48",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Académica",
+						"width":"67.62",
+						"height":"13.62",
+						"left":"249.16",
+						"top":"468.48",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"443.83",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Ingeniería",
+						"width":"49.94",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Química,",
+						"width":"44.15",
+						"height":"10.71",
+						"left":"267.03",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Universidad",
+						"width":"59.63",
+						"height":"10.71",
+						"left":"313.83",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.51",
+						"height":"10.71",
+						"left":"376.14",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga,",
+						"width":"38.53",
+						"height":"10.71",
+						"left":"390.33",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga",
+						"width":"35.68",
+						"height":"10.71",
+						"left":"431.51",
+						"top":"444.31",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Septiembre",
+						"width":"50.61",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"431.93",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2022",
+						"width":"22.97",
+						"height":"9.73",
+						"left":"267.45",
+						"top":"431.93",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"–",
+						"width":"6.43",
+						"height":"9.73",
+						"left":"292.9",
+						"top":"431.93",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Presente",
+						"width":"38.4",
+						"height":"9.73",
+						"left":"301.7",
+						"top":"431.93",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Actualmente",
+						"width":"50.71",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"cursando",
+						"width":"36.62",
+						"height":"8.75",
+						"left":"267.42",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"segundo",
+						"width":"33.42",
+						"height":"8.75",
+						"left":"306.17",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"año",
+						"width":"14.83",
+						"height":"8.75",
+						"left":"341.53",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"358.5",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"la",
+						"width":"7.11",
+						"height":"8.75",
+						"left":"370.08",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"carrera",
+						"width":"28.31",
+						"height":"8.75",
+						"left":"379.46",
+						"top":"420.95",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Media",
+						"width":"25.11",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"241.82",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"9.53",
+						"width":"17.17",
+						"height":"8.75",
+						"left":"253.4",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"9.71",
+						"height":"8.75",
+						"left":"272.78",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"6.97",
+						"height":"8.75",
+						"left":"284.56",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"primer",
+						"width":"27.47",
+						"height":"8.75",
+						"left":"293.74",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"año",
+						"width":"14.64",
+						"height":"8.75",
+						"left":"323.31",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"340.08",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"carrera",
+						"width":"28.31",
+						"height":"8.75",
+						"left":"352.1",
+						"top":"409.75",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"393.43",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Bachillerato,",
+						"width":"61.91",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"C.D.P",
+						"width":"27.89",
+						"height":"10.71",
+						"left":"279.1",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Santa",
+						"width":"27.32",
+						"height":"10.71",
+						"left":"309.7",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Rosa",
+						"width":"24.11",
+						"height":"10.71",
+						"left":"339.67",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.7",
+						"height":"10.71",
+						"left":"366.22",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Lima,",
+						"width":"27.97",
+						"height":"10.71",
+						"left":"380.59",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga",
+						"width":"35.68",
+						"height":"10.71",
+						"left":"411.21",
+						"top":"393.91",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Septiembre",
+						"width":"50.61",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"381.53",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2020",
+						"width":"23.56",
+						"height":"9.73",
+						"left":"267.48",
+						"top":"381.53",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"–",
+						"width":"6.43",
+						"height":"9.73",
+						"left":"293.5",
+						"top":"381.53",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Junio",
+						"width":"25.36",
+						"height":"9.73",
+						"left":"302.3",
+						"top":"381.53",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2022",
+						"width":"22.78",
+						"height":"9.73",
+						"left":"330.07",
+						"top":"381.53",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Media",
+						"width":"25.11",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"370.55",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"241.82",
+						"top":"370.55",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"9.71",
+						"width":"15.95",
+						"height":"8.75",
+						"left":"253.4",
+						"top":"370.55",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"354.23",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"E.S.O,",
+						"width":"30.52",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"354.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Colegio",
+						"width":"36.31",
+						"height":"10.71",
+						"left":"247.62",
+						"top":"354.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Los",
+						"width":"17.15",
+						"height":"10.71",
+						"left":"286.56",
+						"top":"354.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Olivos,",
+						"width":"33.73",
+						"height":"10.71",
+						"left":"306.34",
+						"top":"354.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga",
+						"width":"35.5",
+						"height":"10.71",
+						"left":"342.72",
+						"top":"354.71",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Septiembre",
+						"width":"50.61",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"342.33",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2016",
+						"width":"21.68",
+						"height":"9.73",
+						"left":"267.48",
+						"top":"342.33",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"–",
+						"width":"6.43",
+						"height":"9.73",
+						"left":"291.5",
+						"top":"342.33",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Junio",
+						"width":"25.36",
+						"height":"9.73",
+						"left":"300.3",
+						"top":"342.33",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2020",
+						"width":"23.52",
+						"height":"9.73",
+						"left":"328.07",
+						"top":"342.33",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Media",
+						"width":"25.11",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"331.32",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"241.82",
+						"top":"331.32",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"9.71",
+						"width":"15.95",
+						"height":"8.75",
+						"left":"253.4",
+						"top":"331.32",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Idiomas",
+						"width":"50.61",
+						"height":"13.62",
+						"left":"178.45",
+						"top":"306.23",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"281.8",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Español",
+						"width":"39.31",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"282.28",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Nativo",
+						"width":"29.35",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"269.91",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"253.4",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Inglés",
+						"width":"29.54",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"253.88",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"B2",
+						"width":"12.18",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"241.5",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"(FCE",
+						"width":"22.73",
+						"height":"9.73",
+						"left":"229.06",
+						"top":"241.5",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Cambridge)",
+						"width":"52.15",
+						"height":"9.73",
+						"left":"254.25",
+						"top":"241.5",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Proyectos",
+						"width":"60.37",
+						"height":"13.62",
+						"left":"178.45",
+						"top":"216.61",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"191.98",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"ScienceIES",
+						"width":"54.12",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2021,",
+						"width":"27",
+						"height":"10.71",
+						"left":"271.27",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Universidad",
+						"width":"59.28",
+						"height":"10.71",
+						"left":"300.9",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.71",
+						"height":"10.71",
+						"left":"362.85",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga,",
+						"width":"38.53",
+						"height":"10.71",
+						"left":"377.23",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Málaga",
+						"width":"35.71",
+						"height":"10.71",
+						"left":"418.19",
+						"top":"192.46",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Enero",
+						"width":"26.77",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"180.08",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2021",
+						"width":"21.7",
+						"height":"9.73",
+						"left":"243.68",
+						"top":"180.08",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"–",
+						"width":"6.43",
+						"height":"9.73",
+						"left":"267.67",
+						"top":"180.08",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Abril",
+						"width":"22.24",
+						"height":"9.73",
+						"left":"276.48",
+						"top":"180.08",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"2021",
+						"width":"21.67",
+						"height":"9.73",
+						"left":"301.07",
+						"top":"180.08",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"Participante",
+						"width":"48.7",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"9.52",
+						"height":"8.75",
+						"left":"266.48",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"6.96",
+						"height":"8.75",
+						"left":"279.27",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Proyecto",
+						"width":"34.63",
+						"height":"8.75",
+						"left":"289.45",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"327.22",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Investigación:",
+						"width":"56.16",
+						"height":"8.75",
+						"left":"340",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"SISTEMAS",
+						"width":"44.23",
+						"height":"8.75",
+						"left":"399.34",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"BINARIOS",
+						"width":"44.01",
+						"height":"8.75",
+						"left":"446.72",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"EMISORES",
+						"width":"46.61",
+						"height":"8.75",
+						"left":"493.88",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"DE",
+						"width":"12.68",
+						"height":"8.75",
+						"left":"543.64",
+						"top":"169.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"RAYOS",
+						"width":"29.63",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"X,",
+						"width":"8.82",
+						"height":"8.75",
+						"left":"245.85",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"realización",
+						"width":"43.08",
+						"height":"8.75",
+						"left":"256.46",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"301.41",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"una",
+						"width":"14.94",
+						"height":"8.75",
+						"left":"312.61",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"memoria",
+						"width":"35.91",
+						"height":"8.75",
+						"left":"329.2",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"366.97",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"investigación,",
+						"width":"54.59",
+						"height":"8.75",
+						"left":"378.16",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"exposición",
+						"width":"42.08",
+						"height":"8.75",
+						"left":"434.52",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"oral",
+						"width":"15.56",
+						"height":"8.75",
+						"left":"478.48",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"sobre",
+						"width":"21.55",
+						"height":"8.75",
+						"left":"495.86",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"6.97",
+						"height":"8.75",
+						"left":"519.25",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"trabajo",
+						"width":"28.43",
+						"height":"8.75",
+						"left":"528.05",
+						"top":"158.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				},
+				{
+					"words": [					{
+						"text":"realizado",
+						"width":"36.41",
+						"height":"8.75",
+						"left":"214.47",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"9.71",
+						"height":"8.75",
+						"left":"253.02",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"el",
+						"width":"6.96",
+						"height":"8.75",
+						"left":"264.8",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"proyecto",
+						"width":"34.42",
+						"height":"8.75",
+						"left":"273.98",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"9.71",
+						"height":"8.75",
+						"left":"310.7",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"un",
+						"width":"10.32",
+						"height":"8.75",
+						"left":"322.67",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"congreso",
+						"width":"35.43",
+						"height":"8.75",
+						"left":"335.25",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"y",
+						"width":"4.43",
+						"height":"8.75",
+						"left":"372.92",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"elaboración",
+						"width":"46.47",
+						"height":"8.75",
+						"left":"379.51",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"9.54",
+						"height":"8.75",
+						"left":"428.24",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"un",
+						"width":"10.49",
+						"height":"8.75",
+						"left":"440.02",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"poster",
+						"width":"25.06",
+						"height":"8.75",
+						"left":"452.61",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"científico.",
+						"width":"39.24",
+						"height":"8.75",
+						"left":"479.77",
+						"top":"147.1",
+						"color":"#adaaaa",
+						"fontName":"Times New Roman",
+						"fontSize":"9",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Habilidades",
+						"width":"74.41",
+						"height":"13.62",
+						"left":"178.45",
+						"top":"122.01",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"97.55",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Paquete",
+						"width":"39.27",
+						"height":"10.71",
+						"left":"214.47",
+						"top":"98.03",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Office",
+						"width":"28.71",
+						"height":"10.71",
+						"left":"256.41",
+						"top":"98.03",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"PowerPoint,",
+						"width":"54.07",
+						"height":"9.73",
+						"left":"214.47",
+						"top":"85.66",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Word,",
+						"width":"27.86",
+						"height":"9.73",
+						"left":"270.85",
+						"top":"85.66",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Excel",
+						"width":"23.86",
+						"height":"9.73",
+						"left":"301.02",
+						"top":"85.66",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.67",
+						"left":"196.45",
+						"top":"69.15",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Lenguajes",
+						"width":"49.31",
+						"height":"10.7",
+						"left":"214.47",
+						"top":"69.64",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"11.52",
+						"height":"10.7",
+						"left":"266.41",
+						"top":"69.64",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Programación",
+						"width":"68.83",
+						"height":"10.7",
+						"left":"280.6",
+						"top":"69.64",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"C++,",
+						"width":"21.9",
+						"height":"9.72",
+						"left":"214.47",
+						"top":"57.26",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"R,",
+						"width":"9.88",
+						"height":"9.72",
+						"left":"238.68",
+						"top":"57.26",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Matlab,",
+						"width":"33.88",
+						"height":"9.72",
+						"left":"250.87",
+						"top":"57.26",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"Python",
+						"width":"31.51",
+						"height":"9.72",
+						"left":"287.24",
+						"top":"57.26",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"▪",
+						"width":"6.41",
+						"height":"13.66",
+						"left":"196.45",
+						"top":"40.96",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"14",
+						"underline":"0",
+						"dir":"neutral",
+						"angle":"0"
+					},
+					{
+						"text":"Habilidades",
+						"width":"58.7",
+						"height":"10.7",
+						"left":"214.47",
+						"top":"41.44",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"sociales",
+						"width":"37.52",
+						"height":"10.7",
+						"left":"275.8",
+						"top":"41.44",
+						"color":"#000000",
+						"fontName":"Times New Roman",
+						"fontSize":"11",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			},
+			{
+				"lines": [
+				{
+					"words": [					{
+						"text":"Trabajo",
+						"width":"34.18",
+						"height":"9.72",
+						"left":"214.47",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"en",
+						"width":"10.71",
+						"height":"9.72",
+						"left":"251.06",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"equipo,",
+						"width":"33.14",
+						"height":"9.72",
+						"left":"264.26",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"liderazgo,",
+						"width":"42.86",
+						"height":"9.72",
+						"left":"299.71",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"comunicación,",
+						"width":"64.81",
+						"height":"9.72",
+						"left":"344.89",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"resolución",
+						"width":"46.05",
+						"height":"9.72",
+						"left":"412.01",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"de",
+						"width":"10.62",
+						"height":"9.72",
+						"left":"460.35",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					},
+					{
+						"text":"conflictos",
+						"width":"42.67",
+						"height":"9.72",
+						"left":"473.34",
+						"top":"29.06",
+						"color":"#767070",
+						"fontName":"Times New Roman",
+						"fontSize":"10",
+						"underline":"0",
+						"dir":"ltr",
+						"angle":"0"
+					}]
+				}]
+			}]
+		}],
+		"images": [
+		{
+			"image":"I0.png",
+			"width":"170.9",
+			"height":"170.75",
+			"left":"-0.5",
+			"top":"671.55"
+		},{
+			"image":"I0.png",
+			"width":"170.5",
+			"height":"170.5",
+			"left":"0",
+			"top":"671.3"
+		},{
+			"image":"I1.png",
+			"width":"16.72",
+			"height":"16.72",
+			"left":"9.29",
+			"top":"568.39"
+		},{
+			"image":"I2.png",
+			"width":"10.99",
+			"height":"16.27",
+			"left":"12.18",
+			"top":"539.84"
+		},{
+			"image":"I3.png",
+			"width":"19.37",
+			"height":"19.37",
+			"left":"7.83",
+			"top":"596.66"
+		},{
+			"image":"I4.png",
+			"width":"20.1",
+			"height":"20.1",
+			"left":"7.45",
+			"top":"202.15"
+		},{
+			"image":"I5.png",
+			"width":"155.15",
+			"height":"155.15",
+			"left":"7.45",
+			"top":"37.73"
+		}],
+		"fills": [
+		{
+			"rule":"eo",
+			"color":"#d0cece",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,-0.15,-0.2","lineto,170.2,-0.2","lineto,170.2,757.1","lineto,-0.15,757.1","lineto,-0.15,-0.2"]
+				}]
+			}
+		},{
+			"rule":"eo",
+			"color":"#aeabab",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,-23.25,671.5","lineto,595.4,671.5","lineto,595.4,842.1","lineto,-23.25,842.1","lineto,-23.25,671.5"]
+				}]
+			}
+		},{
+			"rule":"eo",
+			"color":"#767070",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,84.95,842.1","curveto,132.06,842.1,170.25,803.91,170.25,756.8","curveto,170.25,728.37,170.25,699.93,170.25,671.5","curveto,141.82,671.5,113.38,671.5,84.95,671.5","curveto,37.84,671.5,-0.35,709.69,-0.35,756.8","curveto,-0.35,803.91,37.84,842.1,84.95,842.1"]
+				}]
+			}
+		},{
+			"rule":"eo",
+			"color":"#d0cece",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,0.55,670.8","lineto,0.55,756.55","lineto,87.25,670.8","lineto,0.55,670.8"]
+				}]
+			}
+		},{
+			"rule":"eo",
+			"color":"#767070",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,84.82,671.8","curveto,37.59,671.8,-0.7,709.84,-0.7,756.77","curveto,-0.7,785.1,-0.7,813.42,-0.7,841.75","curveto,27.81,841.75,56.32,841.75,84.82,841.75","curveto,132.06,841.75,170.35,803.71,170.35,756.77","curveto,170.35,709.84,132.06,671.8,84.82,671.8"]
+				}]
+			}
+		},{
+			"rule":"eo",
+			"color":"#0462c1",
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,32,209.45","lineto,151.05,209.45","lineto,151.05,209.85","lineto,32,209.85","lineto,32,209.45"]
+				}]
+			}
+		}],
+		"strokes": [
+		{
+			"width":"1",
+			"cap":"0",
+			"join":"0",
+			"color":"#d0cece",
+			"phase": "0",
+			"dashValues": [],
+			"path": {
+				"subpaths": [
+				{
+					"closed":"true",
+					"points": ["moveto,0.55,670.8","lineto,0.55,756.55","lineto,87.25,670.8","lineto,0.55,670.8"]
+				}]
+			}
+		}]
+	}]
+}
